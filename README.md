@@ -2,7 +2,7 @@
 
 A comprehensive Python library for simulating and estimating parameters of various stochastic processes commonly used in quantitative finance and econometrics.
 
-![Stochastic Process Visualization](image.jpg)
+![Stochastic Process Visualization](plots.png)
 
 ## 🚀 Features
 
